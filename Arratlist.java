@@ -7,6 +7,7 @@ import java.util.ListIterator;
 public class Arratlist {
 
 	public static void main(String[] args) {
+		//It implements list interface
 		//it maintains insertion order
 		//duplicate values can be stored
 		//it allow random access based on index
