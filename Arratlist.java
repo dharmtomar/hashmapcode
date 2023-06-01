@@ -30,7 +30,7 @@ public class Arratlist {
 		ar1.add("gita");
 		ar1.add("shyam");
 		ar1.add("mohan");
-		ar1.add("shiva");
+		//ar1.add("shiva");
 		
 		ArrayList<String> ar2=new ArrayList<>();
 		ar2.add("java");
